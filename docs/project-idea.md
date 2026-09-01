@@ -1,1 +1,1 @@
-
+We will be doing an AI image/ text recognition website. Any user should be able to upload an image and get a description of the image from our AI. You should also be able to upload any texts and get a summary back or get any help you need from our AI.
